@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.redirect-link {
+  margin-top: 10px;
+}
+
+.error-msg-container {
+  font-size: 14px;
+  color: red;
+}
